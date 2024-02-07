@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class Poción : MonoBehaviour
 {
-    GameObject obj;
+    public GameObject obj;
     public int cantidad = 1;
 
     // Start is called before the first frame update

@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 6044686959362292511}
   - component: {fileID: 5601431782156009816}
   m_Layer: 0
-  m_Name: "Pickeable_pocio\u0301n"
+  m_Name: "Pickeable_poci\xF3n"
   m_TagString: pickeable
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -98,6 +98,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6a01a033b77794ef984ec67fbd1c9898, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  obj: {fileID: 9085061676229240110, guid: bc41d9382f678447f83a6d66d5cae4b6, type: 3}
   cantidad: 1
 --- !u!65 &5601431782156009816
 BoxCollider:
